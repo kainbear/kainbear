@@ -8,3 +8,5 @@
 
 - <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kainbear&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 - [![Kainbear's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kainbear&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
