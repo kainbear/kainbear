@@ -7,3 +7,4 @@
 -  I’m currently learning JavaScript  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javaScript" width="25" height="25" />
 
 - <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kainbear&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![Kainbear's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kainbear&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
