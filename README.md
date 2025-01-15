@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Denisov Stanislav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm Process Automation Assistant ! In Company Digital Marketing "ArrowMedia" . Passionate about Data Science Development. With Love From Russia 🇷🇺</h3>
+<h3 align="center">I'm Process Automation Assistant ! Working In Company Digital Marketing "ArrowMedia" . Passionate about Data Science Development. With Love From Russia 🇷🇺</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
