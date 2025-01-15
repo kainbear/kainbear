@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Denisov Stanislav</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<div class="tenor-gif-embed" data-postid="21581165" data-share-method="host" data-aspect-ratio="1.6" data-width="100%"><a href="https://tenor.com/view/sweaty-keyboard-gif-21581165">Sweaty Keyboard GIF</a>from <a href="https://tenor.com/search/sweaty+keyboard-gifs">Sweaty Keyboard GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h3 align="center">I'm Process Automation Assistant ! Working In Company Digital Marketing "ArrowMedia" . Passionate about Data Science Development. With Love From Russia 🇷🇺</h3>
 
 - 🔭 I’m currently working on ...
