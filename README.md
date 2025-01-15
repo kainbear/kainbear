@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Denisov Stanislav</a> 
+<h1 align="center">Hi there, I'm <a href="https://vk.com/kainbear" target="_blank">Denisov Stanislav</a> 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
 <h3 align="center">I'm Process Automation Assistant ! Working In Company Digital Marketing "ArrowMedia" . Passionate about Data Science Development. With Love From Russia 🇷🇺</h3>
 
